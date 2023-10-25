@@ -10,4 +10,15 @@ How To Use
 - Copy The Raw Link From GitHub domains_isp File
 - Use The Link in DNS Blocklist (Adguard) / Adlist (PiHole)
 
-From https://trustpositif.kominfo.go.id/assets/db/domains_isp
+List Blocked
+------------
+- Porn
+- Fraud
+- Gambling
+- Malware
+- Hoax
+- ETC (Anything that violates Indonesian Law)
+
+Backup From This URL
+--------------------
+From <a href=https://trustpositif.kominfo.go.id/assets/db/domains_isp> HERE</a>
